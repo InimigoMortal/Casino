@@ -93,4 +93,5 @@ class App(tk.Tk):
 
 casino2 = App()
 casino2.geometry("350x200")
+casino2.title("Casino")
 casino2.mainloop()
